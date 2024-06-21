@@ -9,6 +9,9 @@ header {
     margin: 0;
     padding: 0;
   }
+body{
+    background-repeat: no-repeat;
+  }
   
   nav ul li {
     display: inline-block;
